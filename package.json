@@ -1,0 +1,40 @@
+{
+  "name": "johnbot",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BananenMan09#4615",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "@discordjs/voice": "^0.11.0",
+    "all": "^0.0.0",
+    "ascii-table": "^0.0.9",
+    "button": "^1.1.1",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.37.18",
+    "discord-dynamic-messages": "^4.0.0",
+    "discord-html-transcripts": "^3.1.2",
+    "discord-transcript": "^2.0.9",
+    "discord-transcript-generator": "^1.1.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^14.6.0",
+    "discord.js-buttons": "^1.0.0",
+    "discord.js-transcript": "^1.0.4",
+    "dotenv": "^16.0.3",
+    "interactions": "^0.0.1",
+    "lb": "^0.0.1",
+    "lib": "^4.3.3",
+    "ms": "^2.1.3",
+    "slash-commands": "^1.5.0",
+    "stdlib": "^0.6.0",
+    "winston": "^3.8.2",
+    "wokcommands": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
