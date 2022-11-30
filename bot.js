@@ -24,10 +24,7 @@ const client = new Discord.Client({
 	],
 
 });
-git remote add origin https://github.com/Quandingle/bob.git
 //
-
-const fs = require("node:fs");
 
 const deletech = require('./embeds/misca/deletech');
 
